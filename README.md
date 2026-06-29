@@ -1,10 +1,10 @@
-# ☕ Aroma & Éclat - Premium Coffee Shop Landing Page
+#  Aroma & Éclat - Premium Coffee Shop Landing Page
 
 Selamat datang di repositori **Aroma & Éclat**, sebuah proyek *landing page* kedai kopi premium yang mengusung tema **Aesthetic, Cozy, dan Mewah**. Website ini dirancang dengan pendekatan minimalis modern, tipografi berkelas, serta animasi mikro yang halus untuk memberikan pengalaman visual yang eksklusif bagi calon pelanggan.
 
 ---
 
-## ✨ Fitur Utama
+##  Fitur Utama
 
 * **Desain Sentuhan Mewah (Luxury Aesthetic):** Perpaduan warna hangat *off-white*, cokelat kopi pekat, dan aksen emas (`#c5a880`) untuk membangun citra *brand* kelas atas.
 * **Animasi Reveal on Scroll:** Elemen web akan muncul secara anggun (*smooth fade-in up*) menggunakan *Intersection Observer API* saat pengguna menggulir halaman.
@@ -15,7 +15,7 @@ Selamat datang di repositori **Aroma & Éclat**, sebuah proyek *landing page* ke
 
 ---
 
-## 🛠️ Teknologi yang Digunakan
+##  Teknologi yang Digunakan
 
 Proyek ini dibangun murni menggunakan teknologi web dasar tanpa *framework* tambahan untuk menjaga performa tetap ringan dan cepat:
 
@@ -27,7 +27,7 @@ Proyek ini dibangun murni menggunakan teknologi web dasar tanpa *framework* tamb
 
 ---
 
-## 📂 Struktur File
+##  Struktur File
 
 ```text
 cozy-coffee-shop/
